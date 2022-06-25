@@ -1,0 +1,14 @@
+====================
+AE_SvetaIg_22_1 Date: Sat May 28 2022 16:47:15 GMT+0300
+ getRandomInt: 8
+ getRandomInt: 9
+ getRandomInt: 6
+ Math.round(Math.random()): 0
+ Math.round(Math.random()): 1
+ Math.round(Math.random()): 0
+ pathRrXml: e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_SvetaIg\\xml\\ae_SvetaD_22_6.xml
+readXmlae_maya22_3_1 pathRrXml: e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_SvetaIg\\xml\\ae_SvetaD_22_6.xml
+readXmlae_maya22_3_1 xmlString: 
+ myXml: 
+filePathUrl.length= 0
+====================
